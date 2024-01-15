@@ -2,11 +2,11 @@
 
 ## :mag: O problema:
 
-...
+Melhorar a captação de informações sobre o fluxo de pacientes e equipe de atendimento com uma solução de baixo custo.
 
 ## :dart: O objetivo:
 
-...
+Monitoramento da localização dos pacientes e da equipe de cuidados, para otimização do fluxo de atendimento e métricas das etapas.
 
 ## :computer: Protótipos IoT:
 
