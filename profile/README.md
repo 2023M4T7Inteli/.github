@@ -22,5 +22,5 @@ Monitoramento da localização dos pacientes e da equipe de cuidados, para otimi
 - Grupo 4 - Heimdall: 
   - Link do repositório: https://github.com/2023M4T7Inteli/grupo4
   
-- Grupo 5 - :
+- Grupo 5 - Clepius:
   - Link do repositório: https://github.com/2023M4T7Inteli/grupo5
