@@ -16,7 +16,7 @@ Monitoramento da localização dos pacientes e da equipe de cuidados, para otimi
 - Grupo 2 - Jin:
   - Link do repositório: https://github.com/2023M4T7Inteli/grupo2
   
-- Grupo 3 - :
+- Grupo 3 - Big Mother:
   - Link do repositório: https://github.com/2023M4T7Inteli/grupo3
   
 - Grupo 4 - Heimdall: 
