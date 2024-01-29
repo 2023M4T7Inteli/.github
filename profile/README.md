@@ -11,16 +11,16 @@ Monitoramento da localização dos pacientes e da equipe de cuidados, para otimi
 ## :computer: Protótipos IoT:
 
 - Grupo 1 - Delphlocator:
-  - Link do repositório: https://github.com/2023M4T7Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M4T7Inteli-grupo1
 
 - Grupo 2 - Jin:
-  - Link do repositório: https://github.com/2023M4T7Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M4T7Inteli-grupo2
   
 - Grupo 3 - Big Mother:
-  - Link do repositório: https://github.com/2023M4T7Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M4T7Inteli-grupo3
   
 - Grupo 4 - Heimdall: 
-  - Link do repositório: https://github.com/2023M4T7Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M4T7Inteli-grupo4
   
 - Grupo 5 - Clepius:
-  - Link do repositório: https://github.com/2023M4T7Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M4T7Inteli-grupo5
